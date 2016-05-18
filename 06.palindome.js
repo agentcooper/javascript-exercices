@@ -1,0 +1,1 @@
+// Implement a function which tests if the string is a palindrome (https://en.wikipedia.org/wiki/Palindrome).
